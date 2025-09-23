@@ -3,15 +3,15 @@
   <PropertyGroup>
   <HKManaged> C:\Program Files (x86)\Steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\ </HKManaged>
     <RootNamespace>HKMod</RootNamespace>
-  <AssemblyName>HKMod-v1.1.13</AssemblyName>
+  <AssemblyName>HKMod-v1.1.19</AssemblyName>
 
     <TargetFramework>net472</TargetFramework>
     <AssemblyTitle>HKMod</AssemblyTitle>
     <Product>HKMod</Product>
     <Description>A Hollow Knight mod.</Description>
     <Copyright>Copyright © </Copyright>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
+    <AssemblyVersion>1.1.19</AssemblyVersion>
+    <FileVersion>1.1.19</FileVersion>
     <OutputPath>bin\$(Configuration)\</OutputPath>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
