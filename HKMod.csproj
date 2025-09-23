@@ -3,7 +3,7 @@
   <PropertyGroup>
   <HKManaged> C:\Program Files (x86)\Steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\ </HKManaged>
     <RootNamespace>HKMod</RootNamespace>
-  <AssemblyName>HKMod-v1.1.4</AssemblyName>
+  <AssemblyName>HKMod-v1.1.13</AssemblyName>
 
     <TargetFramework>net472</TargetFramework>
     <AssemblyTitle>HKMod</AssemblyTitle>
